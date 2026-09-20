@@ -1,0 +1,1 @@
+console.log('MicroVM-Sentinel active');
